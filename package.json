@@ -33,4 +33,10 @@
     "tailwindcss": "^3.4.12",
     "vite": "^5.4.1"
   }
+  "engines": {
+  "npm": ">=7.0.0"
+},
+"npmConfig": {
+  "legacy-peer-deps": true
+}
 }
